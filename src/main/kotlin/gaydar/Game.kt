@@ -1,6 +1,6 @@
 package leonbentre
 
-import leonbentre.uil.GLMapp
+import leonbentre.uii.GLMapp
 import leonbentre.utill.settingss.Settingss
 import java.util.Collections.newSetFromMap
 import java.util.concurrent.ConcurrentHashMap
