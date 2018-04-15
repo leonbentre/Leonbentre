@@ -1,7 +1,7 @@
-package gaydar
+package leonbentre
 
-import gaydar.ui.GLMap
-import gaydar.util.settings.Settings
+import leonbentre.uil.GLMapp
+import leonbentre.utill.settingss.Settingss
 import java.util.Collections.newSetFromMap
 import java.util.concurrent.ConcurrentHashMap
 
@@ -33,7 +33,7 @@ fun deregister(gameListener : GameListener)
 
 fun gameStart()
 {
-  println("New Game is Starting")
+  println("Game bat dau")
 
   gameStarted = true
 }
@@ -64,7 +64,7 @@ fun main(args : Array<String>)
     args.size > 3 ->
     {
 
-      println("Loading PCAP File.. " + args[3])
+      println("Tai PCAP File.. " + args[3])
 
       Sniffer.sniffLocationOffline(args[3])
       val jsettings = Settings()
