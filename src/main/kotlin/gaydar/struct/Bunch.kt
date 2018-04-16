@@ -1,4 +1,4 @@
-package gaydar.struct
+package leonbentre.struct
 
 import com.badlogic.gdx.math.Quaternion
 import com.badlogic.gdx.math.Vector3
