@@ -1,8 +1,8 @@
-package gaydar.struct
+package leonbentre.structt
 
-import gaydar.GameListener
-import gaydar.register
-import gaydar.struct.NetGUIDCache.Companion.guidCache
+import leonbentre.GameListener
+import leonbentre.register
+import leonbentre.structt.NetGUIDCache.Companion.guidCache
 
 class NetGuidCacheObject(
       val pathName : String,
