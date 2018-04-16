@@ -1,4 +1,4 @@
-package gaydar.deserializer.channel
+package leonbentre.deserializer.channel
 
 import com.badlogic.gdx.math.Vector2
 import com.badlogic.gdx.math.Vector3
