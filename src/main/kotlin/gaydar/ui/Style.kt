@@ -1,10 +1,10 @@
-package gaydar.ui
+package leonbentre.uii
 
 import com.badlogic.gdx.graphics.Color
 import com.badlogic.gdx.graphics.Color.YELLOW
-import gaydar.gridWidth
-import gaydar.mapWidth
-import gaydar.util.fromHsv
+import leonbentre.gridWidth
+import leonbentre.mapWidth
+import leonbentre.utill.fromHsv
 
 const val initialWindowWidth = 1000f
 const val windowToMapUnit = mapWidth / initialWindowWidth
