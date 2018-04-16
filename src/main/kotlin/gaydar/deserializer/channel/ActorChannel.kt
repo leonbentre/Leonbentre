@@ -1,4 +1,4 @@
-package leonbentre.deserializerr.channel
+package leonbentre.deserializerr.channell
 
 import com.badlogic.gdx.math.Vector2
 import com.badlogic.gdx.math.Vector3
