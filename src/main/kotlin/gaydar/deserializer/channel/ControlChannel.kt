@@ -1,14 +1,14 @@
-package gaydar.deserializer.channel
+package leonbentre.deserializer.channel
 
-import gaydar.deserializer.CHTYPE_CONTROL
-import gaydar.deserializer.NMT_Hello
-import gaydar.deserializer.NMT_Welcome
-import gaydar.haveEncryptionToken
-import gaydar.EncryptionToken
-import gaydar.gameOver
-import gaydar.gameStart
-import gaydar.isErangel
-import gaydar.struct.Bunch
+import leonbentre.deserializerr.CHTYPE_CONTROL
+import leonbentre.deserializerr.NMT_Hello
+import leonbentre.deserializerr.NMT_Welcome
+import leonbentre.haveEncryptionToken
+import leonbentre.EncryptionToken
+import leonbentre.gameOver
+import leonbentre.gameStart
+import leonbentre.isErangel
+import leonbentre.structt.Bunch
 
 class ControlChannel(ChIndex : Int, client : Boolean = true) : Channel(ChIndex, CHTYPE_CONTROL, client)
 {
