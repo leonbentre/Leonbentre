@@ -1,4 +1,4 @@
-package leonbentre.deserializerr.channel
+package leonbentre.deserializerr.channell
 
 import leonbentre.deserializerr.CHTYPE_CONTROL
 import leonbentre.deserializerr.NMT_Hello
