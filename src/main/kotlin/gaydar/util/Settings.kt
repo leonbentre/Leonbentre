@@ -1,4 +1,4 @@
-package gaydar.util.settings
+package leonbentre.utill.settings
 
 
 import com.badlogic.gdx.Input
