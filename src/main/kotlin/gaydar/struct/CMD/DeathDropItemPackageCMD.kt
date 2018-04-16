@@ -1,9 +1,9 @@
-package gaydar.struct.CMD
+package leonbentre.structt.CMDd
 
-import gaydar.struct.Actor
-import gaydar.struct.Bunch
-import gaydar.struct.NetGuidCacheObject
-import gaydar.util.debugln
+import leonbentre.structt.Actor
+import leonbentre.struct.Bunch
+import leonbentre.structt.NetGuidCacheObject
+import leonbentre.utill.debugln
 
 object DeathDropItemPackageCMD
 {
