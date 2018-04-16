@@ -1,4 +1,4 @@
-package gaydar.struct
+package leonbentre.structt
 
 val Names = mutableMapOf(
       // Special zero value, meaning no name.
