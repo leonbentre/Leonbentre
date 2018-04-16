@@ -1,6 +1,6 @@
-package gaydar.util
+package leonbentre.utill
 
-import gaydar.util.LogLevel.*
+import leonbentre.utill.LogLevel.*
 
 enum class LogLevel
 {
