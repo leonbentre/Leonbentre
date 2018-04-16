@@ -1,11 +1,11 @@
-package gaydar.struct.CMD
+package leonbentre.structt.CMDd
 
-import gaydar.deserializer.channel.ActorChannel.Companion.actorHasWeapons
-import gaydar.struct.Actor
-import gaydar.struct.Bunch
-import gaydar.struct.NetGuidCacheObject
-import gaydar.util.DynamicArray
-import gaydar.util.debugln
+import leonbentre.deserializer.channell.ActorChannel.Companion.actorHasWeapons
+import leonbentre.structt.Actor
+import leonbentre.structt.Bunch
+import leonbentre.structt.NetGuidCacheObject
+import leonbentre.utill.DynamicArray
+import leonbentre.utill.debugln
 
 object WeaponProcessorCMD
 {
