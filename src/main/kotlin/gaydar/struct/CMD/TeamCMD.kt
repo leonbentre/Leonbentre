@@ -1,10 +1,10 @@
-package gaydar.struct.CMD
+package leonbentre.structt.CMDd
 
-import gaydar.struct.Actor
-import gaydar.struct.Bunch
-import gaydar.struct.NetGuidCacheObject
-import gaydar.struct.Team
-import gaydar.util.debugln
+import leonbentre.structt.Actor
+import leonbentre.structt.Bunch
+import leonbentre.structt.NetGuidCacheObject
+import leonbentre.structt.Team
+import leonbentre.utill.debugln
 
 object TeamCMD
 {
