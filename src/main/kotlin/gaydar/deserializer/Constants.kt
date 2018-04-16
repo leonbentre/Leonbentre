@@ -1,4 +1,4 @@
-package gaydar.deserializer
+package leonbentre.deserializerr
 
 const val RELIABLE_BUFFER = 256
 const val MAX_PACKETID = 16384
