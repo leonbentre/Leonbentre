@@ -1,11 +1,11 @@
-package gaydar.struct.CMD
+package leonbentre.structt.CMDd
 
-import gaydar.deserializer.channel.ActorChannel.Companion.visualActors
-import gaydar.struct.Actor
-import gaydar.struct.Archetype.Other
-import gaydar.struct.Bunch
-import gaydar.struct.NetGuidCacheObject
-import gaydar.util.debugln
+import leonbentre.deserializerr.channell.ActorChannel.Companion.visualActors
+import leonbentre.structt.Actor
+import leonbentre.structt.Archetype.Other
+import leonbentre.structt.Bunch
+import leonbentre.structt.NetGuidCacheObject
+import leonbentre.utill.debugln
 
 object APawnCMD
 {
