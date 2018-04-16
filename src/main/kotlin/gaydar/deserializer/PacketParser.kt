@@ -1,6 +1,6 @@
 @file:Suppress("NOTHING_TO_INLINE")
 
-package gaydar.deserializer
+package leonbentre.deserializerr
 
 import leonbentre.haveEncryptionToken
 import leonbentre.EncryptionToken
