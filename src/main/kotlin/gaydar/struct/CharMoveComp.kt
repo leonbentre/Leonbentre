@@ -1,8 +1,8 @@
-package gaydar.struct
+package leonbentre.structt
 
-import gaydar.deserializer.shortRotationScale
-import gaydar.struct.CMD.selfCoords
-import gaydar.struct.CMD.selfDirection
+import leonbentre.deserializerr.shortRotationScale
+import leonbentre.structt.CMDd.selfCoords
+import leonbentre.structt.CMDd.selfDirection
 
 fun vehicleSyncComp(actor : Actor, bunch : Bunch)
 {
