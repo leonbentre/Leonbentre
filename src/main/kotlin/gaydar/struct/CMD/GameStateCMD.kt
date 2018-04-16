@@ -1,12 +1,12 @@
-package gaydar.struct.CMD
+package leonbentre.structt.CMDd
 
 import com.badlogic.gdx.math.Vector2
-import gaydar.GameListener
-import gaydar.register
-import gaydar.struct.Actor
-import gaydar.struct.Bunch
-import gaydar.struct.NetGuidCacheObject
-import gaydar.util.debugln
+import leonbentre.GameListener
+import leonbentre.register
+import leonbentre.structt.Actor
+import leonbentre.structt.Bunch
+import leonbentre.structt.NetGuidCacheObject
+import leonbentre.utill.debugln
 
 object GameStateCMD : GameListener
 {
