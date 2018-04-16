@@ -1,10 +1,10 @@
-package gaydar.struct.CMD
+package leonbentre.structt.CMDd
 
-import gaydar.deserializer.channel.ActorChannel.Companion.airDropLocation
-import gaydar.struct.Actor
-import gaydar.struct.Bunch
-import gaydar.struct.NetGuidCacheObject
-import gaydar.util.debugln
+import leonbentre.deserializerr.channell.ActorChannel.Companion.airDropLocation
+import leonbentre.structt.Actor
+import leonbentre.structt.Bunch
+import leonbentre.structt.NetGuidCacheObject
+import leonbentre.utill.debugln
 
 object AirDropCMD
 {
