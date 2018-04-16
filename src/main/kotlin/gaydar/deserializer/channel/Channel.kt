@@ -1,4 +1,4 @@
-package leonbentre.deserializerr.channel
+package leonbentre.deserializerr.channell
 
 import leonbentre.GameListener
 import leonbentre.deserializerr.RELIABLE_BUFFER
