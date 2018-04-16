@@ -1,12 +1,12 @@
-package gaydar.struct.CMD
+package leonbentre.structt.CMDd
 
 import com.badlogic.gdx.math.Vector2
-import gaydar.deserializer.channel.ActorChannel.Companion.droppedItemCompToItem
-import gaydar.deserializer.channel.ActorChannel.Companion.droppedItemLocation
-import gaydar.struct.Actor
-import gaydar.struct.Bunch
-import gaydar.struct.NetGuidCacheObject
-import gaydar.util.debugln
+import leonbentre.deserializerr.channell.ActorChannel.Companion.droppedItemCompToItem
+import leonbentre.deserializerr.channell.ActorChannel.Companion.droppedItemLocation
+import leonbentre.structt.Actor
+import leonbentre.structt.Bunch
+import leonbentre.structt.NetGuidCacheObject
+import leonbentre.utill.debugln
 
 object DroppedItemInteractionComponentCMD
 {
